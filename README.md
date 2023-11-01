@@ -10,4 +10,4 @@ To use as chrome extension load extension.javascript into tampermonkey then save
 ![image](https://github.com/Alexwitk/ratemyprofessorscraper/assets/82058380/9cddd19b-7656-474b-a755-e1b746544132)
 
 
-Could define functionality to check for variations of names as in some instances rating not detected if spelled differently or nickname used on course scheduling website vs on rate my professor website 
+Could define functionality to check for variations of names since so professors wouldn't be missed if name is slightly different on course scheduling website vs on rate my professor website 
